@@ -3,4 +3,4 @@ AOSP Manifest
 
 This repository is for aosp
 
-    repo init -u http://github.com/swordrune10/android_manifest.git
+    repo init -u http://github.com/swordrune10/android_manifest.git -b ics
