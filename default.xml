@@ -2,7 +2,11 @@
 <manifest>
 
   <remote  name="aosp"
+           fetch="https://android.googlesource.com/" />
+
+  <remote  name="github"
            fetch=".." />
+
   <default revision="refs/tags/android-4.0.4_r1.1"
            remote="aosp"
            sync-j="4" />
@@ -240,4 +244,5 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
 
+  <project path="android" name="swordrune10/android_manifest" remote="github" revision="refs/heads/ics"/>
 </manifest>
