@@ -7,7 +7,6 @@ This repository is for aosp
 
 TODO: 
 remove java check from build/core/main.mk
-remove system/extras/su
 get it to actually build right x.x
 
 
