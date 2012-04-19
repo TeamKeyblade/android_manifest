@@ -4,3 +4,10 @@ AOSP Manifest
 This repository is for aosp
 
     repo init -u http://github.com/swordrune10/android_manifest.git -b ics
+
+TODO: 
+remove java check from build/core/main.mk
+remove system/extras/su
+get it to actually build right x.x
+
+
