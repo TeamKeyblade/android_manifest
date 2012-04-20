@@ -245,7 +245,7 @@
   <project path="system/vold" name="platform/system/vold" />
 
   <project path="android" name="swordrune10/android_manifest" remote="github" revision="refs/heads/ics"/>
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="refs/heads/ics" />
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="refs/heads/ics" />
-  <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="refs/heads/ics" />
+  <project path="busybox" name="Gnurou/busybox-android" remote="github" revision="master"/>
+  <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
+  <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="refs/heads/gc-ics" />
 </manifest>
