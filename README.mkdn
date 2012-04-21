@@ -7,8 +7,6 @@ Not functional at the moment
 
     repo init -u http://github.com/swordrune10/android_manifest.git -b ics
 
-TODO: 
-<br/>
-remove java check from build/core/main.mk
+TODO:
 <br/>
 get it to actually build right x.x
