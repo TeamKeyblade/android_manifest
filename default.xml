@@ -7,7 +7,7 @@
   <remote  name="github"
            fetch=".." />
 
-  <default revision="master"
+  <default revision="refs/tags/android-4.0.4_r1.1"
            remote="aosp"
            sync-j="4" />
 
