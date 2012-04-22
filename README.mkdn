@@ -3,10 +3,6 @@ AOSP Manifest
 
 This repository is for aosp
 
-Not functional at the moment
+functional, working on root to install correctly
 
     repo init -u http://github.com/swordrune10/android_manifest.git -b ics
-
-TODO:
-<br/>
-get it to actually build right x.x
