@@ -248,5 +248,5 @@
   <project path="vendor/swordrune10" name="swordrune10/android_vendor_swordrune10" remote="github" revision="refs/heads/ics"/>
   <project path="external/busybox" name="Gnurou/busybox-android" remote="github" revision="master"/>
   <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
-  <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="refs/heads/gc-ics" />
+  <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="master" />
 </manifest>
