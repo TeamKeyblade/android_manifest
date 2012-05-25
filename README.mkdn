@@ -1,8 +1,8 @@
-AOSP Manifest
--------------
+Rooted & Busyboxed AOSP
+-----------------------
 
-This repository is for aosp
+This repository is for Rooted & Busyboxed AOSP
 
-works correctly (in theory, ill update this when its tested)
+also adds the ability to build with toroplus!
 
     repo init -u http://github.com/swordrune10/android_manifest.git -b ics
