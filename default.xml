@@ -33,9 +33,9 @@
   <project path="device/samsung/crespo" name="device/samsung/crespo" />
   <project path="device/samsung/crespo4g" name="device/samsung/crespo4g" />
   <project path="device/samsung/maguro" name="device/samsung/maguro" />
-  <project path="device/samsung/toroplus" name="swordrune10/android_device_samsung_toroplus" remote="github" revision="refs/heads/ics"/>
+  <project path="device/samsung/toroplus" name="TeamKeyblade/android_device_samsung_toroplus" remote="github" revision="refs/heads/ics"/>
   <project path="device/samsung/toro" name="device/samsung/toro" />
-  <project path="device/samsung/tuna" name="swordrune10/android_device_samsung_tuna" remote="github" revision="refs/heads/ics"/>
+  <project path="device/samsung/tuna" name="TeamKeyblade/android_device_samsung_tuna" remote="github" revision="refs/heads/ics"/>
   <project path="device/ti/panda" name="device/ti/panda" />
   <project path="docs/source.android.com" name="platform/docs/source.android.com" />
   <project path="external/android-mock" name="platform/external/android-mock" />
@@ -242,8 +242,8 @@
   <project path="system/netd" name="platform/system/netd" />
   <project path="system/vold" name="platform/system/vold" />
 
-  <project path="android" name="swordrune10/android_manifest" remote="github" revision="refs/heads/ics"/>
-  <project path="vendor/swordrune10" name="swordrune10/android_vendor_swordrune10" remote="github" revision="refs/heads/ics"/>
+  <project path="android" name="TeamKeyblade/android_manifest" remote="github" revision="refs/heads/ics"/>
+  <project path="vendor/swordrune10" name="TeamKeyblade/android_vendor_swordrune10" remote="github" revision="refs/heads/ics"/>
   <project path="external/busybox" name="Gnurou/busybox-android" remote="github" revision="master"/>
   <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
   <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="master" />
