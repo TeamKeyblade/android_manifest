@@ -243,7 +243,7 @@
   <project path="system/vold" name="platform/system/vold" />
 
   <project path="android" name="TeamKeyblade/android_manifest" remote="github" revision="refs/heads/ics"/>
-  <project path="vendor/swordrune10" name="TeamKeyblade/android_vendor_swordrune10" remote="github" revision="refs/heads/ics"/>
+  <project path="vendor/keyblade" name="TeamKeyblade/android_vendor_keyblade" remote="github" revision="refs/heads/ics"/>
   <project path="external/busybox" name="Gnurou/busybox-android" remote="github" revision="master"/>
   <project path="packages/apps/Superuser" name="ChainsDD/Superuser" remote="github" revision="master" />
   <project path="system/su" name="ChainsDD/su-binary" remote="github" revision="master" />
