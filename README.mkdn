@@ -5,4 +5,4 @@ This repository is for Rooted & Busyboxed AOSP
 
 also adds the ability to build with toroplus!
 
-    repo init -u http://github.com/TeamKeyblade/android_manifest.git -b ics
+    repo init -u http://github.com/TeamKeyblade/android_manifest.git -b jellybean
