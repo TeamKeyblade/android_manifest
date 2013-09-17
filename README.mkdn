@@ -3,6 +3,4 @@ Rooted & Busyboxed AOSP
 
 This repository is for Rooted & Busyboxed AOSP
 
-also adds the ability to build with toroplus!
-
-    repo init -u http://github.com/TeamKeyblade/android_manifest.git -b jellybean
+This is only an addon, and belongs in the local_manifests folder for aosp

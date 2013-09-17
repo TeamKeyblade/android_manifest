@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="github"
+           fetch="http://github.com/" />
+
+  <project path="external/busybox" name="Gnurou/busybox-android" remote="github" revision="master"/>
+  <project path="external/koush/Superuser" name="koush/Superuser" remote="github" revision="master" />
+  <project path="external/koush/Widgets" name="koush/Widgets" remote="github" revision="master" />
+  <project path="vendor/keyblade" name="TeamKeyblade/android_vendor_keyblade" remote="github" revision="jellybean"/>
+</manifest>
